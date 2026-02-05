@@ -1,0 +1,8 @@
+# Python & FastAPI Project Rules
+
+## Tech Stack Preferences
+- Python 3.12+ (use modern syntax: `list[]` instead of `List[]`, `|` instead of `Union`)
+- FastAPI (latest version)
+- Pydantic v2 (BaseModel, Field, Settings)
+- SQLAlchemy 2.0+ (DeclarativeBase, Mapped, mapped_column)
+- Dependency Management: uv
